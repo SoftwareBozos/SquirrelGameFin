@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 1839fc5654bc8a14397a7b67114243b1
+  - enabled: 1
+    path: Assets/Dark Forest/DemoScenes/Dark Forest.unity
+    guid: a0a6d55b12f50e349aedf5d6ce3d6c00
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 2b7b50a561fa93245a1171268be386b1
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 8f9b9e91055b8f34da5b1c32369aad49
+  - enabled: 1
+    path: Assets/Scenes/Final Real.unity
+    guid: ea80b8388ce587e499c5fd02503e01a1
+  m_configObjects: {}
